@@ -73,18 +73,27 @@ p{
         height: 10rem;
     }
     #navlinks{
-        
+        margin-left: 2rem;
         width: 90px;
         display: flex;
-        
+        font-size: 10px;
     }
     p{
         margin-top: 1rem;
         
-        font-size: 20px;
+        font-size: 10px;
     }
     .lap{
+        height: 40px;
+        width: 70px;
         margin-left: 0;
+        font-size: 1rem;
+    }
+    .top{
+        height: 40px;
+        width: 70px;
+       
+        font-size: 1rem;
     }
 
 }
