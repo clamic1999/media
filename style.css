@@ -60,7 +60,7 @@ p{
     padding: 10px 20px;
     border-radius: 5px;
 }
-@media only screen and (min-width: 250px) and (max-width: 380px){
+@media only screen and (min-width: 350px) and (max-width: 420px){
     header{
         background-color: rgb(91, 31, 231);
         width: 470px;
